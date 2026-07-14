@@ -27,18 +27,14 @@ You handle both creating and loading handoff documents to maintain context acros
 
 Output exactly these sections in the document using strict bullet points.
 
-### 1. Session Delta (Max 50 words)
+### 1. Session Delta
 * High-level objective and specific progress made in *this session only*.
 
-### 2. Decisions & Failures (Max 3 bullets)
+### 2. Decisions & Failures
 * Non-obvious decisions, blocked paths, or system limitations discovered.
 
-### 3. Immediate Next Steps (Max 3 bullets)
+### 3. Immediate Next Steps
 * Start with the #1 immediate action item. Actionable commands only.
 
-### 4. Targets & Patterns
-* **Files**: [Comma-separated absolute paths]
-* **Patterns**: [Max 2 architectural constraints]
-
-### 5. Required Skills
+### 4. Required Skills
 * [Comma-separated list of Antigravity skills/plugins to load]
